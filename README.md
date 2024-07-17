@@ -47,6 +47,7 @@ environment {
     }
   }
 }
+
 8. Deploy the edited terraform script.
 
    
